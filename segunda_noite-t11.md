@@ -22,12 +22,6 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | 4        | ...                 | ...   | ...         | ...          |
 | 5        | ...                 | ...   | ...         | ...          |
 
-
-- Deadline 1: Formação de equipes
-  - **Valor:** 1 ponto
-  - **Prazo**: 27.03, 18h
-  - **Detalhamento:** [NESTE LINK](https://docs.google.com/document/d/1RVBb8Yz8n6fgFCbADvU66IMxQQrls4_NM40XVk5GVH4/edit)
-
 ## Disciplinas do módulo
 
 - Programação avançada em OO
