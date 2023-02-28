@@ -30,7 +30,7 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
-| 1        | Formação de equipes | 1     | 28/03 - 18h | [Detalhamento](https://docs.google.com/document/d/1fb4e9MDtF686nio9dvX6t_bOALAptDiO-_etIh9QX9w/edit?usp=sharing) |
+| 1        | Formação de equipes | 1     | 28/03 - 11h | [Detalhamento](https://docs.google.com/document/d/1fb4e9MDtF686nio9dvX6t_bOALAptDiO-_etIh9QX9w/edit?usp=sharing) |
 | 2        | TAP                 | 1     | ...         | ...          |
 | 3        | Requisitos          | 2     | ...         | ...          |
 | 4        | Personas            | 1     | ...         | ...          |
