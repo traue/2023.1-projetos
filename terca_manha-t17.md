@@ -31,12 +31,12 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 28/03 - 11h | [Detalhamento](https://docs.google.com/document/d/1fb4e9MDtF686nio9dvX6t_bOALAptDiO-_etIh9QX9w/edit?usp=sharing) |
-| 2        | TAP                 | 1     | ...         | ...          |
-| 3        | Requisitos          | 2     | ...         | ...          |
-| 4        | Personas            | 1     | ...         | ...          |
-| 5        | Prototipação        | 2     | ...         | ...          |
-| 6        | Software            | 2     | ...         | ...          |
-| 7        | Doc Final           | 1     | ...         | ...          |
+| 2        | TAP                 | 1     | ...         | Em breve     |
+| 3        | Requisitos          | 2     | ...         | Em breve     |
+| 4        | Personas            | 1     | ...         | Em breve     |
+| 5        | Prototipação        | 2     | ...         | Em breve     |
+| 6        | Software            | 2     | ...         | Em breve     |
+| 7        | Doc Final           | 1     | ...         | Em breve     |
 
 ## Disciplinas do módulo
 
