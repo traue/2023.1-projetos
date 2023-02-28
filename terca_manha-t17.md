@@ -1,10 +1,13 @@
-# Projeto em Sistemas Computacionais
+# Projeto em Sistemas Interativos
 
-**Orientador:** Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
+**Orientadores:**
 
-Turma 11 - Segundas à noite
+- Prof. Leandro Mota - leandrofm@uni9.pro.br
+- Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
 
-[Link do classroom](https://classroom.google.com/c/NTkzODc0ODkzNDAy?cjc=orpmqxb)
+Turma 17 - Diurno - Terças (Traue) e Sextas (Leandro)
+
+[Link do classroom](https://classroom.google.com/c/NTkzODc1MjgyMTEw?cjc=rlha6hk)
 
 ***
 
@@ -16,7 +19,7 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
-| 1        | Formação de equipes | 1     | 27/03 - 18h | [Detalhamento](https://docs.google.com/document/d/1RVBb8Yz8n6fgFCbADvU66IMxQQrls4_NM40XVk5GVH4) |
+| 1        | Formação de equipes | 1     | 27/03 - 18h | [Detalhamento]() |
 | 2        | ...                 | ...   | ...         | ...          |
 | 3        | ...                 | ...   | ...         | ...          |
 | 4        | ...                 | ...   | ...         | ...          |
@@ -24,7 +27,7 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 ## Disciplinas do módulo
 
-- Programação avançada em OO
-- Aplicações Web
-- Estruturas de Dados
-- Desenvolvimento Mobile
+- Qualidade de Software
+- Jogos Digitais
+- Computação Gráfica e Proc. de Imagens
+- Programação Web (PHP)
