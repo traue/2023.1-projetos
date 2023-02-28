@@ -11,6 +11,17 @@ Turma 17 - Diurno - Terças (Traue) e Sextas (Leandro)
 
 ***
 
+## Objetivo
+
+O objetivo deste projeto é desenvolver completamente um sistema interativo que pode ser:
+
+- Um Jogo
+- Um CRUD
+- Um App
+- etc.
+
+É importante mencionar que além do desenvolvimento serão cobradas documentações inerentes à cada etapa do processo, conforme tabela abaixo.
+
 ## Entregas
 
 Cada uma das entregas do proejto valem de 1 a 2 pontos no projeto. A reunião de todas as entregas totalizará os 10 pontos no projeto.
