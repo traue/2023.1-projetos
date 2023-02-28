@@ -24,17 +24,19 @@ O objetivo deste projeto é desenvolver completamente um sistema interativo que 
 
 ## Entregas
 
-Cada uma das entregas do proejto valem de 1 a 2 pontos no projeto. A reunião de todas as entregas totalizará os 10 pontos no projeto.
+Cada uma das entregas do proejto valem de 1 a 3 pontos no projeto. A reunião de todas as entregas totalizará os 10 pontos no projeto.
 
 Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela abaixo, com seus respectivos detalhamentos:
 
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 27/03 - 18h | [Detalhamento]() |
-| 2        | ...                 | ...   | ...         | ...          |
-| 3        | ...                 | ...   | ...         | ...          |
-| 4        | ...                 | ...   | ...         | ...          |
-| 5        | ...                 | ...   | ...         | ...          |
+| 2        | TAP                 | 1     | ...         | ...          |
+| 3        | Requisitos          | 2     | ...         | ...          |
+| 4        | Personas            | 1     | ...         | ...          |
+| 5        | Prototipação        | 2     | ...         | ...          |
+| 6        | Software            | 2     | ...         | ...          |
+| 7        | Doc Final           | 1     | ...         | ...          |
 
 ## Disciplinas do módulo
 
