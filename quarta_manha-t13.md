@@ -2,7 +2,7 @@
 
 **Orientadores:**
 
-- Prof. Edson Melo - souzaem@uni9.pro.br
+- Prof. Dr. Edson Melo - souzaem@uni9.pro.br
 - Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
 
 Turma 13 - Diurno - Quartas (Traue) e Sextas (Edson)
@@ -15,9 +15,9 @@ Turma 13 - Diurno - Quartas (Traue) e Sextas (Edson)
 
 O objetivo deste projeto é desenvolver completamente um sistema interativo que pode ser:
 
-- Um Jogo
-- Um CRUD
-- Um App
+- Um Jogo (jogável)
+- Um CRUD (completo)
+- Um App (com consumo de API, por exemplo)
 - etc.
 
 É importante mencionar que além do desenvolvimento serão cobradas documentações inerentes à cada etapa do processo, conforme tabela abaixo.
