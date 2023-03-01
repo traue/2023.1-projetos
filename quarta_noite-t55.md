@@ -28,8 +28,8 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
-| 1        | Formação de equipes | 1     | 29/03 - 18h | [Detalhamento]() |
-| 2        | TAP                 | 1     | 05/04 - 18h | Em breve     |
+| 1        | Formação de equipes | 1     | 29/03 - 18h | [Detalhamento](https://docs.google.com/document/d/14HM0ZWpPpob7M_LgogdSyRjB2V3OszTwmNXBHjCK9H4/edit?usp=sharing) |
+| 2        | TAP                 | 1     | ...         | Em breve     |
 | 3        | Requisitos          | 2     | ...         | Em breve     |
 | 4        | Landing Page        | 1     | ...         | Em breve     |
 | 5        | Prototipação        | 2     | ...         | Em breve     |
