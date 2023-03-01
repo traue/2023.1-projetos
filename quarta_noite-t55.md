@@ -4,14 +4,21 @@
 
 Turma 55 - Noturno - Quartas
 
-[Link do classroom]()
+[Link do classroom](https://classroom.google.com/c/NTkzODc0OTI0OTYy?cjc=u7arx7u)
 
 ***
 
 ## Objetivo
 
+O objetivo deste projeto é desenvolver, ao longo do semestre, um software multiplataforma, que pode ser:
 
+- Um jogo (para várias plataformas)
+- Um Aplicativo (é preciso utilizar alguma linguagem híbrida)
+- Um site responsito (pode-se utilizar qualquer linguagem)
 
+Para este projeto as equipes poderão utilizar quaisquer linguagens mas a aplicação entregue deve ter ao menos um CRUD.
+
+Apesar do objetivo final ser uma aplicação (que deve ser entregue), o projeto por ser acadêmico precisa de sua respectiva documentação, ou seja, cada uma das entregas do projeto é um documento do mesmo. As entregas são definidas na tabela abaixo.
 
 ## Entregas
 
@@ -21,17 +28,21 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
-| 1        | Formação de equipes | 1     | 29/03 - 11h | [Detalhamento]() |
-| 2        | TAP                 | 1     | ...         | Em breve     |
-| 3        | Requisitos          | 1     | ...         | Em breve     |
-| 4        | Personas            | 1     | ...         | Em breve     |
-| 5        | Qualidade           | 1     | ...         | Em breve     |
-| 6        | Prototipação        | 2     | ...         | Em breve     |
-| 7        | Software            | 2     | ...         | Em breve     |
-| 8        | Doc Final           | *     | ...         | Em breve     |
+| 1        | Formação de equipes | 1     | 29/03 - 18h | [Detalhamento]() |
+| 2        | TAP                 | 1     | 05/04 - 18h | Em breve     |
+| 3        | Requisitos          | 2     | ...         | Em breve     |
+| 4        | Landing Page        | 1     | ...         | Em breve     |
+| 5        | Prototipação        | 2     | ...         | Em breve     |
+| 6        | Software            | 3     | ...         | Em breve     |
+| 7        | Doc Final           | *     | ...         | Em breve     |
 
 *A documentação final é a que valida a pontuação total do do projeto. Vide detalhamento.
 
 ## Disciplinas do módulo
 
-- 
+- Desenvolvimento de Aplicações OO
+- Desenvolvimento Mobile
+- Programação para BD
+- Ciência de Dados
+- Programação Visual (EaD)
+- Big Data (Ead)
