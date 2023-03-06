@@ -7,7 +7,7 @@
 
 Turma 46 - Diurno - Segundas (Traue) e Terças (Ovidio)
 
-[Link do classroom](https://classroom.google.com/c/NTkzODc0Nzg5NTc2?cjc=y2fh4d2)
+[LINK DO CALSSROOM](https://classroom.google.com/c/NTkzODc0Nzg5NTc2?cjc=y2fh4d2)
 
 ***
 
@@ -25,19 +25,22 @@ Cada uma das entregas do proejto valem de 1 a 3 pontos no projeto. A reunião de
 
 Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela abaixo, com seus respectivos detalhamentos:
 
-| Deadline | Descrição           | Valor | Prazo       | Detalhamento |
+| Deadline | Descrição           | Valor | Prazo Máx.  | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
-| 1        | Formação de equipes | 1     | 29/03 - 11h | [Detalhamento]() |
-| 2        | TAP                 | 1     | ...         | Em breve     |
-| 8        | Doc Final           | *     | ...         | Em breve     |
+| 1        | Formação de equipes | 1     | 03/04 - 11h | [Detalhamento](https://docs.google.com/document/d/1KjPWHMaVxVdHPwVjYqjJeVl-ubBKncDU8JOeT84AlRw/edit?usp=sharing) |
+| 2        | Definição do negócio| 2     | ...         | Em breve     |
+| 3        | Política LGPD       | 2     | ...         | Em breve     |
+| 4        | Análise de Mercado  | 2     | ...         | Em breve     |
+| 5        | Infraestrutura      | 2     | ...         | Em breve     |
+| 6        | Doc Final           | 1     | ...         | Em breve     |
 
 *A documentação final é a que valida a pontuação total do do projeto. Vide detalhamento.
 
 ## Disciplinas do módulo
 
 - Gestão de dados
-- Lógica aplciada a computação
+- Lógica aplicada a computação
 - Segurança de dados
 - Infraestrutura de TI e computação em Nuvem
 - Análise de Dados (EaD)
-- Gestão de Sw como serviço (EaD)
+- Gestão de Software como serviço (EaD)
