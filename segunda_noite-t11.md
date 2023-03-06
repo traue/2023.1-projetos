@@ -4,7 +4,7 @@
 
 Turma 11 - Segundas à noite
 
-[Link do classroom](https://classroom.google.com/c/NTkzODc0ODkzNDAy?cjc=orpmqxb)
+[LINK DO CLASSROOM](https://classroom.google.com/c/NTkzODc0ODkzNDAy?cjc=orpmqxb)
 
 ***
 
