@@ -14,6 +14,7 @@ Este projeto tem como objetivo apresentar a contrução completa de sistema comp
 
 - Um jogo
 - Uma aplicação web (CRUD)
+- Uma aplcação desktop (CRUD)
 - Um App compelto
 - etc.
 
@@ -26,12 +27,12 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 27/03 - 18h | [Detalhamento](https://docs.google.com/document/d/1RVBb8Yz8n6fgFCbADvU66IMxQQrls4_NM40XVk5GVH4) |
-| 2        | TAP                 | 2     | ...         | ...          |
-| 3        | Requisitos          | 2     | ...         | ...          |
-| 4        | Landing Page        | 1     | ...         | ...          |
-| 5        | Prototipação        | 2     | ...         | ...          |
-| 6        | Software            | 2     | ...         | ...          |
-| 7        | Doc Final & Apresen.| *     | ...         | ...          |
+| 2        | TAP                 | 2     | ...         | [Detalhamento](https://docs.google.com/document/d/1IKGebm_Yt2GA-foI36DcZ6Euni085DixTnMqdYTMLSI) |
+| 3        | Requisitos          | 2     | ...         | Em breve     |
+| 4        | Landing Page        | 1     | ...         | Em breve     |
+| 5        | Prototipação        | 2     | ...         | Em breve     |
+| 6        | Software            | 2     | ...         | Em breve     |
+| 7        | Doc Final & Apresen.| *     | ...         | Em breve     |
 
  Obs: *O documento final (Deadline 7) representa a entrega mais importante do projeto. Não realizá-la implicará em anulação.
 
