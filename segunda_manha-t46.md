@@ -1,17 +1,23 @@
-# Projeto em Sistemas Interativos
+# Projeto em Empreendedorismo e Transformação Digital
 
 **Orientadores:**
 
 - Prof. Dr. Ovídio Lopes - ovidio@uni9.pro.br
 - Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
 
-Turma 13 - Diurno - Quartas (Traue) e Sextas (Edson)
+Turma 46 - Diurno - Segundas (Traue) e Terças (Ovidio)
 
 [Link do classroom](https://classroom.google.com/c/NTkzODc0Nzg5NTc2?cjc=y2fh4d2)
 
 ***
 
 ## Objetivo
+
+O objetivo deste projeto é desenvolver uma empresa na área de TI que seja capaz de fornecer um produto ou serviço (sempre na área da tecnologia).
+
+Durante as entregsas do projeto serão avaliadas questões de empreendedorismo, técnicas, gestão de dados da empresa, segurança e transofrmação digital.
+
+Este projeto é orientado à entregas que, juntas somam o projeto completo. Todas as entregas estão devidamente detalhadas na tabela abaixo.
 
 ## Entregas
 
@@ -23,15 +29,15 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 29/03 - 11h | [Detalhamento]() |
 | 2        | TAP                 | 1     | ...         | Em breve     |
-| 3        | Requisitos          | 1     | ...         | Em breve     |
-| 4        | Personas            | 1     | ...         | Em breve     |
-| 5        | Qualidade           | 1     | ...         | Em breve     |
-| 6        | Prototipação        | 2     | ...         | Em breve     |
-| 7        | Software            | 2     | ...         | Em breve     |
 | 8        | Doc Final           | *     | ...         | Em breve     |
 
 *A documentação final é a que valida a pontuação total do do projeto. Vide detalhamento.
 
 ## Disciplinas do módulo
 
-
+- Gestão de dados
+- Lógica aplciada a computação
+- Segurança de dados
+- Infraestrutura de TI e computação em Nuvem
+- Análise de Dados (EaD)
+- Gestão de Sw como serviço (EaD)
