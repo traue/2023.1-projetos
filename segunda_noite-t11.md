@@ -1,4 +1,4 @@
-# Projeto em Sistemas Computacionais
+# Projeto Prático de Construção de Sistemas Computacionais
 
 **Orientador:** Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
 
@@ -7,6 +7,15 @@ Turma 11 - Segundas à noite
 [Link do classroom](https://classroom.google.com/c/NTkzODc0ODkzNDAy?cjc=orpmqxb)
 
 ***
+
+## Objetivo
+
+Este projeto tem como objetivo apresentar a contrução completa de sistema computacional, ou seja, uma aplicação interativa que pode ser:
+
+- Um jogo
+- Uma aplicação web (CRUD)
+- Um App compelto
+- etc.
 
 ## Entregas
 
@@ -17,10 +26,16 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 27/03 - 18h | [Detalhamento](https://docs.google.com/document/d/1RVBb8Yz8n6fgFCbADvU66IMxQQrls4_NM40XVk5GVH4) |
-| 2        | ...                 | ...   | ...         | ...          |
-| 3        | ...                 | ...   | ...         | ...          |
-| 4        | ...                 | ...   | ...         | ...          |
-| 5        | ...                 | ...   | ...         | ...          |
+| 2        | TAP                 | 2     | ...         | ...          |
+| 3        | Requisitos          | 2     | ...         | ...          |
+| 4        | Landing Page        | 1     | ...         | ...          |
+| 5        | Prototipação        | 2     | ...         | ...          |
+| 6        | Software            | 2     | ...         | ...          |
+| 7        | Doc Final & Apresen.| *     | ...         | ...          |
+
+ Obs: *O documento final (Deadline 7) representa a entrega mais importante do projeto. Não realizá-la implicará em anulação.
+
+ O detalhamento de cada entrega explica sucintamwnte o que cada grupo deve entregar ao professor orientador. Os prazos das entregas são pré-definidos e atrasos implicam em multa no valor da entrega (50% por semana).
 
 ## Disciplinas do módulo
 
@@ -28,3 +43,5 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 - Aplicações Web
 - Estruturas de Dados
 - Desenvolvimento Mobile
+- Organização em BD (EaD)
+- Complexidade de Algoritmos (EaD)
