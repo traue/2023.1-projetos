@@ -15,13 +15,13 @@ Turma 46 - Diurno - Segundas (Traue) e Terças (Ovidio)
 
 O objetivo deste projeto é desenvolver uma empresa na área de TI que seja capaz de fornecer um produto ou serviço (sempre na área da tecnologia).
 
-Durante as entregsas do projeto serão avaliadas questões de empreendedorismo, técnicas, gestão de dados da empresa, segurança e transofrmação digital.
+Durante as entregsas do projeto serão avaliadas questões de empreendedorismo, técnicas, gestão de dados da empresa, segurança e transformação digital.
 
 Este projeto é orientado à entregas que, juntas somam o projeto completo. Todas as entregas estão devidamente detalhadas na tabela abaixo.
 
 ## Entregas
 
-Cada uma das entregas do proejto valem de 1 a 3 pontos no projeto. A reunião de todas as entregas totalizará os 10 pontos no projeto.
+Cada uma das entregas do proejto valem de 1 a 2 pontos no projeto. A reunião de todas as entregas totalizará os 10 pontos no projeto.
 
 Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela abaixo, com seus respectivos detalhamentos:
 
@@ -35,6 +35,8 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | 6        | Doc Final           | 1     | ...         | Em breve     |
 
 *A documentação final é a que valida a pontuação total do do projeto. Vide detalhamento.
+
+Use sempre sua conta institucional para acessar o documento com o detalhamento de cada entrega.
 
 ## Disciplinas do módulo
 
