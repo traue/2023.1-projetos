@@ -1,6 +1,9 @@
 # Projeto em Desenvolvimento de Apps Multiplataforma
 
-**Orientadore:** Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
+**Orientadores:**
+
+- Prof. AndersonRocha - anderson.barros@uni9.pro.br
+- Prof. Thiago G. Traue - thiago.traue@uni9.pro.br
 
 Turma 5 - Noturno - Terças (Prof. Traue) e Quintas (Prof. Anderson)
 
