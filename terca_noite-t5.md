@@ -44,5 +44,5 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 - Desenvolvimento Mobile
 - Programação para BD
 - Ciência de Dados
-- Programação Visual (EaD)
+- Programação Visual
 - Big Data (Ead)
