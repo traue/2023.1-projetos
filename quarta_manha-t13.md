@@ -31,8 +31,8 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 29/03 - 11h | [Detalhamento](https://docs.google.com/document/d/1cLBggyNZK7Bi2VZlzbBJ9h_5eu9_f9Pc6RRG7-fuAJY/edit?usp=sharing) |
-| 2        | TAP                 | 1     | 12/04 - 11h | [Detalhamento](https://docs.google.com/document/d/1Ad_8h8s4qrt9iwM35-K0MWxBoIF26MLYQP8pWyxOncU/edit?usp=sharing)     |
-| 3        | Requisitos          | 1     | 26/04 - 11h | Em breve     |
+| 2        | TAP                 | 1     | 12/04 - 11h | [Detalhamento](https://docs.google.com/document/d/1Ad_8h8s4qrt9iwM35-K0MWxBoIF26MLYQP8pWyxOncU/edit?usp=sharing) |
+| 3        | Requisitos          | 1     | 26/04 - 11h | [Detalhamento](https://docs.google.com/document/d/1Cp042zenLUeiIcyujsaAenDbVXxcW11Yu7LTkLXwbIY/edit?usp=sharing) |
 | 4        | Personas            | 1     | 03/05 - 11h | Em breve     |
 | 5        | Qualidade           | 1     | 17/05 - 11h | Em breve     |
 | 6        | Prototipação        | 2     | 31/05 - 11h | Em breve     |
@@ -47,3 +47,4 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 - Jogos Digitais
 - Computação Gráfica e Proc. de Imagens
 - Programação Web (PHP)
+- Multimídia e realidade virtual (EaD)
