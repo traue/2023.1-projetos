@@ -7,7 +7,7 @@
 
 Turma 13 - Diurno - Quartas (Traue) e Sextas (Edson)
 
-[Link do classroom](https://classroom.google.com/c/NTkzODc0NzQ5NDI4?cjc=ytwq2yn)
+[CLASSROOM DO PROJETO](https://classroom.google.com/c/NTkzODc0NzQ5NDI4?cjc=ytwq2yn)
 
 ***
 
@@ -31,13 +31,13 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | Deadline | Descrição           | Valor | Prazo       | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
 | 1        | Formação de equipes | 1     | 29/03 - 11h | [Detalhamento](https://docs.google.com/document/d/1cLBggyNZK7Bi2VZlzbBJ9h_5eu9_f9Pc6RRG7-fuAJY/edit?usp=sharing) |
-| 2        | TAP                 | 1     | ...         | Em breve     |
-| 3        | Requisitos          | 1     | ...         | Em breve     |
-| 4        | Personas            | 1     | ...         | Em breve     |
-| 5        | Qualidade           | 1     | ...         | Em breve     |
-| 6        | Prototipação        | 2     | ...         | Em breve     |
-| 7        | Software            | 2     | ...         | Em breve     |
-| 8        | Doc Final           | *     | ...         | Em breve     |
+| 2        | TAP                 | 1     | 12/04 - 11h | Em breve     |
+| 3        | Requisitos          | 1     | 26/04 - 11h | Em breve     |
+| 4        | Personas            | 1     | 03/05 - 11h | Em breve     |
+| 5        | Qualidade           | 1     | 17/05 - 11h | Em breve     |
+| 6        | Prototipação        | 2     | 31/05 - 11h | Em breve     |
+| 7        | Software            | 2     | 14/06 - 11h | Em breve     |
+| 8        | Doc Final           | *     | 14/06 - 11h | Em breve     |
 
 *A documentação final é a que valida a pontuação total do do projeto. Vide detalhamento.
 
