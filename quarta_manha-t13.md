@@ -36,7 +36,7 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | 4        | Personas            | 1     | 03/05 - 11h | Em breve     |
 | 5        | Qualidade           | 1     | 17/05 - 11h | Em breve     |
 | 6        | Prototipação        | 2     | 31/05 - 11h | Em breve     |
-| 7        | Software            | 2     | 14/06 - 11h | Em breve     |
+| 7        | Software            | 3     | 14/06 - 11h | Em breve     |
 | 8        | Doc Final           | *     | 14/06 - 11h | Em breve     |
 
 *A documentação final é a que valida a pontuação total do do projeto. Vide detalhamento.
