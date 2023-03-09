@@ -35,7 +35,7 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 | Deadline | Descrição           | Valor | Prazo Máx.  | Detalhamento |
 |----------|---------------------|-------|-------------|--------------|
-| 1        | Formação de equipes | 1     | 23/03 - 11h | [Detalhamento]() |
+| 1        | Formação de equipes | 1     | 23/03 - 11h | [Detalhamento](https://docs.google.com/document/d/1pLIrZP_x2kYq-xH6tJs309Kp4ZCvHiqZfetfaao1bHo/) |
 | 2        | TAP                 | 2     | 06/04 - 11h | Em breve     |
 | 3        | Definição da IA     | 2     | 27/04 - 11h | Em breve     |
 | 4        | Protótipo           | 2     | 11/05 - 11h | Em breve     |
