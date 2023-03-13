@@ -29,7 +29,7 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 | 1        | Formação de equipes | 1     | 27/03 - 18h | [Detalhamento](https://docs.google.com/document/d/1RVBb8Yz8n6fgFCbADvU66IMxQQrls4_NM40XVk5GVH4) |
 | 2        | TAP                 | 2     | 10/04 - 18h | [Detalhamento](https://docs.google.com/document/d/1IKGebm_Yt2GA-foI36DcZ6Euni085DixTnMqdYTMLSI) |
 | 3        | Requisitos          | 2     | 24/04 - 18h | [Detalhamento](https://docs.google.com/document/d/16Wt85JzZYu8oY4_iWdyLn_tVn5lMLNFV-qPeKpxPEwM) |
-| 4        | Landing Page        | 1     | 08/05 - 18h | Em breve     |
+| 4        | Landing Page        | 1     | 08/05 - 18h | [Detalhamento](https://docs.google.com/document/d/10gWRVyAYQeRElMdlbEzpI6L6dCILoRK06txKJsYjVJs) |
 | 5        | Prototipação        | 2     | 22/05 - 18h | Em breve     |
 | 6        | Software            | 2     | 05/06 - 18h | Em breve     |
 | 7        | Doc Final & Apresen.| *     | 12/06 - 18h | Em breve     |
