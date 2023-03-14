@@ -38,6 +38,8 @@ Os entregáveis deste projeto (deadlines) estão devidamente descritos na tabela
 
 Use sempre sua conta institucional para acessar o documento com o detalhamento de cada entrega.
 
+Os itens acima que constam com o detalhamento "em breve" serão definidos nas próxias reuniões.
+
 ## Disciplinas do módulo
 
 - Gestão de dados
